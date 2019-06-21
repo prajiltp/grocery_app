@@ -1,5 +1,5 @@
 ### Ruby version
-2.5.1
+2.6.2
 
 ### To execute
 ruby main.rb
