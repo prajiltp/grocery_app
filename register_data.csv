@@ -1,0 +1,11 @@
+register name,product name,price,quantity,product code
+vegitables,onion,30,10,vegonion
+vegitables,tomato,25,20,vegtomato
+vegitables,potato,32,20,vegpotato
+vegitables,chilli,120,40,vegchilli
+vegitables,carrot,90,40,vegcarrot
+chips,banana,200,35,chipbana
+chips,potato,180,20,chppota
+fruits,pinaple,20,20,frpinaple
+fruits,orange,30,10,frorange
+fruits,apple,40,10,frapple
